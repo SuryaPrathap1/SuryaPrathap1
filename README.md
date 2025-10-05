@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/pju6hoztmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pju6hoztmn" height="30" width="40" /></a>
+
   <a href="https://www.instagram.com/s_p___._
 " target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" height="30" width="40" />
